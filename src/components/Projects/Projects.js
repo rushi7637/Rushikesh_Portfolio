@@ -2,14 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import or2s from "../../Assets/Projects/1.png";
-import ttt from "../../Assets/Projects/2.png";
-import qr from "../../Assets/Projects/3.png";
-import love from "../../Assets/Projects/4.png";
-import port from "../../Assets/Projects/5.png";
-import dict from "../../Assets/Projects/6.png";
-import ispo from "../../Assets/Projects/7.png";
-import weath from "../../Assets/Projects/8.png";
+
 
 function Projects() {
   return (
